@@ -112,7 +112,7 @@ body a{
 .one-fifth select {
 	background: none;
 	background-image: url("../images/arrow.png");
-	background-position: left 65px center;
+	background-position: left 140px center;
 	background-repeat: no-repeat;
 	border: none;
 	border-radius: 0;
@@ -172,7 +172,7 @@ body a{
 	text-decoration:none;
 }
 .header_bottom {
-   padding:2em 0;
+   padding:1em 0;
 }
 /*--menu--*/
 /* dCodes Framework:(c) TemplateAccess */
@@ -285,7 +285,7 @@ body a{
 }
 /*-- search Box --*/
 .banner {
-	background: url(../images/banner.jpg) no-repeat center top;
+	background: url(../img/banner.jpg) no-repeat center top;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
